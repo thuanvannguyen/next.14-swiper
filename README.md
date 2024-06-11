@@ -1,1 +1,1 @@
-### slide Swiper in Next14
+### Swiper in Next14
